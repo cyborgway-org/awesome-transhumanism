@@ -18,7 +18,7 @@
 
 - [Посткибергуманизм](https://t.me/postcyberhumanism) - Technology, society, philosophy, art, hive, decentralization. Чат канала @cybergnosis.
 
-- [Трансгуманисты Беларуси](https://t.me/)
+- [Трансгуманисты Беларуси](https://t.me/transhuman_by)
 
 - [Трансгуманисты в России](https://t.me/+8Zes3odyCfY3ZGZl)
 
