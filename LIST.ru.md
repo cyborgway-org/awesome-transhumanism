@@ -10,7 +10,7 @@
 
 - [PostRat Inc.](https://t.me/liftoizm1) - Открытая флудилка трансгуманистов и не только. Чат канала @transhumanisminheart.
 
-- [TH | Трансчеловек](https://t.me/thumanchat) - Чат T-human.com, журнала «Технологии будущего» и «Продление жизни».
+- [TH / Трансчеловек](https://t.me/thumanchat) - Чат T-human.com, журнала «Технологии будущего» и «Продление жизни».
 
 - [Utilitarian Transhumanism / Утилитаризм и трансгуманизм](https://t.me/utilitariantranshumanism) - Гедонистический трансгуманизм.
 
@@ -42,11 +42,11 @@
 
 ### Биохакинг
 
-- [BIOHACK | BIOTECH Chat](https://t.me/thisbiohackchat) - За свободу информации и популяризации науки в области биотехнологий и генной инженерии. Чат канала @thisbiohack.
+- [BIOHACK / BIOTECH Chat](https://t.me/thisbiohackchat) - За свободу информации и популяризации науки в области биотехнологий и генной инженерии. Чат канала @thisbiohack.
 
 - [BioHacker.by](https://t.me/biohacker_by) - Биохакеры Беларуси.
 
-- [RED PILL | НООТРОПЫ | БИОХАКИНГ | ЧАТ](https://t.me/redpillnootropchat) - Обсуждение ноотропов и биохакинга. Чат канала @redpillnootrop.
+- [RED PILL / НООТРОПЫ / БИОХАКИНГ / ЧАТ](https://t.me/redpillnootropchat) - Обсуждение ноотропов и биохакинга. Чат канала @redpillnootrop.
 
 - [Биохакинг - Чат Биохакеров о Здоровье](https://t.me/biohackerchat) - Обсуждение биохакерских секретов. Обмен опытом. Прокачиваем биохакерское окружение. Учимся быть эффективнее, энергичнее, умнее и здоровее. Чат канала @zizbiohacking.
 
