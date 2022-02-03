@@ -2,9 +2,10 @@
 
 A curated awesome list of Transhumanism links. Feel free to contribute!
 
-- [English](LIST.md)
+Languages:
 
-- [Русская версия](LIST.ru.md)
+- [English](LIST.md)
+- [Русский](LIST.ru.md)
 
 The repository is a part of the [OpenSourceWebsite Organization](https://github.com/opensourcewebsite-org). This project and everyone participating in it is governed by the [Code of Conduct](CODE_OF_CONDUCT.md).
 
