@@ -6,6 +6,8 @@
 
 - [carboncopies.org](https://carboncopies.org) - Carboncopies Foundation, we believe that the possibilities and opportunities enabled by Whole Brain Emulation (WBE) represent the most promising technological path to overcoming our fundamental limitations as a species.
 
+- [longevitytech.fund](https://www.longevitytech.fund) - Investing globally in companies extending healthy lifespans. Longevitytech.fund does pre-seed and seed-stage investments in the best of worldwide early-stage startups and university spinoffs based on our close cooperation with top scientists in the field of aging research and rejuvenation, biotechnology, bioinformatics, agetech, and related AI. We Provide an active approach with entrepreneurial help, network and commercialization support.
+
 ### Crowdfunding for Science
 
 - [experiment.com](https://experiment.com) - Experiment is online platform for discovering, funding, and sharing scientific research.
@@ -13,6 +15,8 @@
 - [kickstarter.com](https://www.kickstarter.com/pages/science) - Science Projects on Kickstarter.
 
 - [crowd.science](https://crowd.science) - Crowd.Science plans to grow the amount of funding available to scientists. To do this we work with individual scientists and organisations to craft and promote crowdfunding campaigns that engage new science funders. We also work with businesses and philanthropists who already fund science, aiming to make their funding go further by using it to leverage support from the crowd.
+
+- [lifespan.io](https://www.lifespan.io/crowdfunding/) - Crowdfunding the cure for aging.
 
 ### Challenges for Science
 
