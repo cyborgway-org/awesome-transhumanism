@@ -87,7 +87,7 @@
 
 - [Посткибергуманизм](https://t.me/postcyberhumanism) - Technology, society, philosophy, art, hive, decentralization. Чат канала @cybergnosis.
 
-#### Продление жизни, иммортализм
+#### Продление жизни, иммортализм, борьба со старением
 
 - [Open Longevity чат](https://t.me/open_longevity) - Проект Open Longevity. Диагностика и терапии старения, исследования по инициативе пациентов. Чат канала @OpenLongevity_ru.
 
