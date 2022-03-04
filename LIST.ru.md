@@ -145,8 +145,6 @@
 
 - [transhuman.by](https://t.me/transhuman_by) - Трансгуманисты в Белоруссии.
 
-- [Трансгуманисты в России](https://t.me/+8Zes3odyCfY3ZGZl)
-
 - [Трансгуманисты в Украине](https://t.me/+hqOl20eQKwM3Zjhl)
 
 #### Смежные группы
