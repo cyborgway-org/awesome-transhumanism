@@ -18,6 +18,8 @@
 
 - [lifespan.io](https://www.lifespan.io/crowdfunding/) - Crowdfunding the cure for aging.
 
+- [vitadao.com](https://vitadao.com) - VitaDAO is a community owned collective funding early stage longevity research. We discover and fund the most promising longevity research. We are funding early stage research, and try to turn it into biotech companies. Members can join VitaDAO by purchasing VITA tokens  or earning them through contributions of work or Intellectual Property.
+
 ### Challenges for Science
 
 - [innocentive.com](https://www.innocentive.com) - Harness the power of our global community of 500,000 problem solvers, our global reach to millions more, all combined with our Challenge Driven Innovation™ methodology.
