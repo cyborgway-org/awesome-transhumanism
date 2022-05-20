@@ -2,6 +2,8 @@
 
 ## Websites
 
+- [cyborgway.org](https://cyborgway.org) - Cyborg Way - is an organization whose aim is to accelerate the emergence of cybernetic technologies, cybernetic bodies, cybernetic minds, cybernetic civilization.
+
 - [posthumans.org](https://www.posthumans.org) - POSTHUMANS - The Global Posthuman Network is a global, and local, platform dedicated to the posthuman paradigm shift. ​Our goal is to connect all the scholars, artists, scientists, researchers, human and post-human beings, who are envisioning our posthuman era.
 
 - [carboncopies.org](https://carboncopies.org) - Carboncopies Foundation, we believe that the possibilities and opportunities enabled by Whole Brain Emulation (WBE) represent the most promising technological path to overcoming our fundamental limitations as a species.
