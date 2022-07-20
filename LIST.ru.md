@@ -108,6 +108,8 @@
 
 - [Open Longevity чат](https://t.me/open_longevity) - Проект Open Longevity. Диагностика и терапии старения, исследования по инициативе пациентов. Чат канала @OpenLongevity_ru.
 
+- [Проект AGCT](https://t.me/+-GZtdAqsOvcyMGVi)
+
 - [ORDO - public association](https://t.me/ordochat) - Общественное объединение «Общество рационального долголетия», город Минск. Чат канала @ordopublic.
 
 - [Health Buddy_чат](https://t.me/joinchat/BRRKZxI19ST44IpIQ28DCw) - Группа по обмену опытом в теме продления жизни. Чат канала @biohacking_150.
