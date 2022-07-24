@@ -39,3 +39,11 @@
 - [SENS Research Foundation](https://www.sens.org) - We Are Building a Future Free of Age-Related Disease. SENS Research Foundation works to develop, promote, and ensure widespread access to therapies that cure and prevent the diseases and disabilities of aging by comprehensively repairing the damage that builds up in our bodies over time. We are redefining the way the world researches and treats age-related ill health, while inspiring the next generation of biomedical scientists.
 
 - [fightaging.org](https://www.fightaging.org) - FIGHT AGING! Do you want to live a longer life in good health? Simple practices can make some difference, such as exercise or calorie restriction. But over the long haul all that really matters is progress in medicine: building new classes of therapy to repair and reverse the known root causes of aging. The sooner these treatments arrive, the more lives will be saved.
+
+## Telegram
+
+### Channels
+
+#### Cyborgization
+
+- [Cyborg Way](https://t.me/cyborgway) - If you don't find a way to escape your death, you will DIE!
