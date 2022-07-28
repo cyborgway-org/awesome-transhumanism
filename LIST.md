@@ -2,7 +2,7 @@
 
 ## Websites
 
-- [cyborgway.org](https://cyborgway.org) - Cyborg Way - is an organization whose aim is to accelerate the emergence of cybernetic technologies, cybernetic bodies, cybernetic minds, cybernetic civilization.
+- [CyborgWay.org](https://cyborgway.org) - is an organization whose aim is to accelerate the emergence of cybernetic technologies, cybernetic bodies, cybernetic minds, cybernetic civilization.
 
 - [posthumans.org](https://www.posthumans.org) - POSTHUMANS - The Global Posthuman Network is a global, and local, platform dedicated to the posthuman paradigm shift. ​Our goal is to connect all the scholars, artists, scientists, researchers, human and post-human beings, who are envisioning our posthuman era.
 
@@ -39,6 +39,10 @@
 - [SENS Research Foundation](https://www.sens.org) - We Are Building a Future Free of Age-Related Disease. SENS Research Foundation works to develop, promote, and ensure widespread access to therapies that cure and prevent the diseases and disabilities of aging by comprehensively repairing the damage that builds up in our bodies over time. We are redefining the way the world researches and treats age-related ill health, while inspiring the next generation of biomedical scientists.
 
 - [fightaging.org](https://www.fightaging.org) - FIGHT AGING! Do you want to live a longer life in good health? Simple practices can make some difference, such as exercise or calorie restriction. But over the long haul all that really matters is progress in medicine: building new classes of therapy to repair and reverse the known root causes of aging. The sooner these treatments arrive, the more lives will be saved.
+
+## Discord
+
+- [Cyborg Way](https://discord.gg/FnNtAnJJbN) - is an organization whose aim is to accelerate the emergence of cybernetic technologies, cybernetic bodies, cybernetic minds, cybernetic civilization.
 
 ## Telegram
 

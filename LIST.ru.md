@@ -2,9 +2,13 @@
 
 ## Сайты
 
-- [cyborgway.org](https://cyborgway.org) - Cyborg Way - это организация, целью которой является ускорение появления кибернетических технологий, кибернетических тел, кибернетических разумов, кибернетической цивилизации.
+- [CyborgWay.org](https://cyborgway.org) - это организация, целью которой является ускорение появления кибернетических технологий, кибернетических тел, кибернетических разумов, кибернетической цивилизации.
 
-## Telegram
+## Дискорд
+
+- [Cyborg Way](https://discord.gg/FnNtAnJJbN) - is an organization whose aim is to accelerate the emergence of cybernetic technologies, cybernetic bodies, cybernetic minds, cybernetic civilization.
+
+## Телеграм
 
 ### Каналы
 
