@@ -6,7 +6,7 @@
 
 ## Дискорд
 
-- [Cyborg Way](https://discord.gg/FnNtAnJJbN) - is an organization whose aim is to accelerate the emergence of cybernetic technologies, cybernetic bodies, cybernetic minds, cybernetic civilization.
+- [Cyborg Way](https://discord.gg/FnNtAnJJbN) - это организация, целью которой является ускорение появления кибернетических технологий, кибернетических тел, кибернетических разумов, кибернетической цивилизации.
 
 ## Телеграм
 
