@@ -22,7 +22,15 @@
 
 - [lifespan.io](https://www.lifespan.io/crowdfunding/) - Crowdfunding the cure for aging.
 
-- [vitadao.com](https://vitadao.com) - VitaDAO is a community owned collective funding early stage longevity research. We discover and fund the most promising longevity research. We are funding early stage research, and try to turn it into biotech companies. Members can join VitaDAO by purchasing VITA tokens  or earning them through contributions of work or Intellectual Property.
+- [molecule.to](https://www.molecule.to) - Decentralized scientific research financing platform that functions as a marketplace for academics seeking funding and individuals interested in investing in scientific research initiatives. They "connect leading researchers to funds by transforming intellectual property and development into a liquid and easily investable asset.
+
+- [VitaDAO.com](https://vitadao.com) - VitaDAO is a community owned collective funding early stage longevity research. We discover and fund the most promising longevity research. We are funding early stage research, and try to turn it into biotech companies. Members can join VitaDAO by purchasing VITA tokens  or earning them through contributions of work or Intellectual Property.
+
+- [LabDAO.xyz](https://www.labdao.xyz) - Open tools accelerate progress. An open, community-run network of wet & dry laboratories accelerating progress in the life sciences.
+
+- [PsyDAO.io](https://psydao.io) - PsyDAO will revolutionize R&D and ownership of psychedelics IP using the permissionless, trustless, decentralized, and censorship-resistant web, web3.
+
+- [AntidoteDAO.org](https://www.antidotedao.org) - AntidoteDAO is the first DAO directly funding various Cancer Research Initiatives. Our mission is to directly fund cancer research, making it more democratic, transparent, and collaborative in the process.
 
 ### Challenges for Science
 
@@ -41,6 +49,20 @@
 - [SENS Research Foundation](https://www.sens.org) - We Are Building a Future Free of Age-Related Disease. SENS Research Foundation works to develop, promote, and ensure widespread access to therapies that cure and prevent the diseases and disabilities of aging by comprehensively repairing the damage that builds up in our bodies over time. We are redefining the way the world researches and treats age-related ill health, while inspiring the next generation of biomedical scientists.
 
 - [fightaging.org](https://www.fightaging.org) - FIGHT AGING! Do you want to live a longer life in good health? Simple practices can make some difference, such as exercise or calorie restriction. But over the long haul all that really matters is progress in medicine: building new classes of therapy to repair and reverse the known root causes of aging. The sooner these treatments arrive, the more lives will be saved.
+
+### DeSci
+
+- [DeSci Foundation](https://descifoundation.org) - The DeSci Foundation is a tax-exempt non-profit foundation. The purpose of the foundation is to advance high-quality scientific research and science. The Foundation can give scholarships and awards to researchers and scientists to support its purpose. We are working together with our banking partner to enable financial donations to high-quality science by bridging web3 and traditional institutions.
+
+- [DeSci Labs](https://desci.com) - A Decentralised Scientific Ecosystem. DeSci Nodes enable a radically transparent ledger of scientific record that is secure, permanent, interoperable and resistant to cross-national censorship.
+
+- [DeSci.World](https://desci.world) - Uniting and empowering the decentralised community; DeSciWorld is the one-stop shop for users to view, engage with, and understand all that is happening in the World of Decentralised Science.
+
+- [OpSci DAO](https://opsci.io) - We’re a community of open science activists, researchers, organisers and enthusiasts that have come together to work on the problems of data sharing, reproducibility, incentive alignment, coordination, and intellectual ownership that plague knowledge creation today. Together, we’re building a scientific ecosystem that unlocks data silos, coordinates collaboration and democratises funding. Our long-term vision is to create a global network of automated knowledge foundries, where scientists and AI co-create new knowledge.
+
+- [ResearchHub.com](https://www.researchhub.com) - A GitHub For Science. ResearchHub's mission is to accelerate the pace of scientific research. Our goal is to make a modern mobile and web application where people can collaborate on scientific research in a more efficient way, similar to what GitHub has done for software engineering. Researchers are able to upload articles (preprint or postprint) in PDF form, summarize the findings of the work in an attached wiki, and discuss the findings in a completely open and accessible forum dedicated solely to the relevant article.
+
+- [FlemingProtocol.io](https://flemingprotocol.io) - Fleming Protocol provides users with the infrastructure to store all of their personal health data, generated from patient-owned devices (i.e. smart watches, remote monitoring sensors, etc.), in one place using IPFS, giving patients full custody of their own data. This will enable users to use this data to develop "automated and personalized systems for self-management" while opening the door for a new "personalized healthcare economy in the metaverse." Through incentivization & innovative data monetization mechanisms, we enable patients & biomedical innovators to collaborate & create value in a privacy preserving way.
 
 ## Discord
 
