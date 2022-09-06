@@ -64,6 +64,16 @@
 
 - [FlemingProtocol.io](https://flemingprotocol.io) - Fleming Protocol provides users with the infrastructure to store all of their personal health data, generated from patient-owned devices (i.e. smart watches, remote monitoring sensors, etc.), in one place using IPFS, giving patients full custody of their own data. This will enable users to use this data to develop "automated and personalized systems for self-management" while opening the door for a new "personalized healthcare economy in the metaverse." Through incentivization & innovative data monetization mechanisms, we enable patients & biomedical innovators to collaborate & create value in a privacy preserving way.
 
+### Robots
+
+- [RoboCup.org](https://robocup.org) - RoboCup is an international scientific initiative with the goal to advance the state of the art of intelligent robots. When established in 1997, the original mission was to field a team of robots capable of winning against the human soccer World Cup champions by 2050.
+
+- [RoboSub.org](https://robosub.org) - RoboSub is an international student competition. Student teams from around the world design and build robotic submarines, otherwise known as Autonomous Underwater Vehicles (AUV). The behaviors demonstrated by these experimental AUVs mimics those of real-world systems, currently deployed around the world for underwater exploration, seafloor mapping, and sonar localization, amongst many others.
+
+- [RoboNation.org](https://robonation.org) - Where tomorrow’s innovators can start taking risks, making breakthroughs, and building robots today. We are RoboNation.
+
+- [Eurobot.org](https://www.eurobot.org) - The Eurobot Assocation is an international organization created in May 2004 and registered in France. It was born 6 years after the Eurobot Contest to structure the organization of this growing contest, and to favor the spirit of exchange and co-operation between the different organizers. The object of Eurobot is to foster and develop interest in robotics in young people on an international scale. To reach this goal, it promotes and organizes the national qualifications and the international final for the Eurobot robotics contest.
+
 ## Discord
 
 - [Cyborg Way](https://discord.gg/FnNtAnJJbN) - is an organization whose aim is to accelerate the emergence of cybernetic technologies, cybernetic bodies, cybernetic minds, cybernetic civilization.
