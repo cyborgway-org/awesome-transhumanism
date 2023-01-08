@@ -44,6 +44,8 @@
 
 - [zooniverse.org](https://www.zooniverse.org) - Zooniverse is the world’s largest and most popular platform for people-powered research. This research is made possible by volunteers — more than a million people around the world who come together to assist professional researchers. Our goal is to enable research that would not be possible, or practical, otherwise. Zooniverse research results in new discoveries, datasets useful to the wider research community, and many publications.
 
+- [longhack.org](https://longhack.org) - Longevity Hackathons. We provide a gateway into the world of longevity, connecting young scientists and communities to experienced players. We are also engaged in a range of inspirational and high-quality activities with our partners internationally. However, our main focus is on both online and real-life longevity hackathons which we keep 3 times a year. Our goal is to make an impact on the longevity industry, boost research, and support the community of enthusiasts hacking aging, just like us.
+
 ### Longevity, immortalism, antiaging
 
 - [SENS Research Foundation](https://www.sens.org) - We Are Building a Future Free of Age-Related Disease. SENS Research Foundation works to develop, promote, and ensure widespread access to therapies that cure and prevent the diseases and disabilities of aging by comprehensively repairing the damage that builds up in our bodies over time. We are redefining the way the world researches and treats age-related ill health, while inspiring the next generation of biomedical scientists.
