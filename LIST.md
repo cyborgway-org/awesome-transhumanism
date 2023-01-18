@@ -4,11 +4,13 @@
 
 - [CyborgWay.org](https://cyborgway.org) - is an organization whose aim is to accelerate the emergence of cybernetic technologies, cybernetic bodies, cybernetic minds, cybernetic civilization.
 
-- [posthumans.org](https://www.posthumans.org) - POSTHUMANS - The Global Posthuman Network is a global, and local, platform dedicated to the posthuman paradigm shift. ​Our goal is to connect all the scholars, artists, scientists, researchers, human and post-human beings, who are envisioning our posthuman era.
+- [CyborgFoundation.com](https://www.cyborgfoundation.com) - Cyborg Foundation was created in 2010 by cyborg artists Neil Harbisson and Moon Ribas in order to help humans become cyborgs, defend the rights of cyborgs and promote cyborg art.​
 
-- [carboncopies.org](https://carboncopies.org) - Carboncopies Foundation, we believe that the possibilities and opportunities enabled by Whole Brain Emulation (WBE) represent the most promising technological path to overcoming our fundamental limitations as a species.
+- [Posthumans.org](https://www.posthumans.org) - POSTHUMANS - The Global Posthuman Network is a global, and local, platform dedicated to the posthuman paradigm shift. ​Our goal is to connect all the scholars, artists, scientists, researchers, human and post-human beings, who are envisioning our posthuman era.
 
-- [longevitytech.fund](https://www.longevitytech.fund) - Investing globally in companies extending healthy lifespans. Longevitytech.fund does pre-seed and seed-stage investments in the best of worldwide early-stage startups and university spinoffs based on our close cooperation with top scientists in the field of aging research and rejuvenation, biotechnology, bioinformatics, agetech, and related AI. We Provide an active approach with entrepreneurial help, network and commercialization support.
+- [CarbonCopies.org](https://carboncopies.org) - Carboncopies Foundation, we believe that the possibilities and opportunities enabled by Whole Brain Emulation (WBE) represent the most promising technological path to overcoming our fundamental limitations as a species.
+
+- [LongevityTech.fund](https://www.longevitytech.fund) - Investing globally in companies extending healthy lifespans. Longevitytech.fund does pre-seed and seed-stage investments in the best of worldwide early-stage startups and university spinoffs based on our close cooperation with top scientists in the field of aging research and rejuvenation, biotechnology, bioinformatics, agetech, and related AI. We Provide an active approach with entrepreneurial help, network and commercialization support.
 
 - [Longevity.Technology](https://longevity.technology) - We bring together innovators and investors to commercialise the companies that will form the longevity economy. There are already 100+ rejuvenation biotechs working on unique therapies and building R&D pipelines to increase healthspan and lifespan.
 
@@ -75,6 +77,10 @@
 - [RoboNation.org](https://robonation.org) - Where tomorrow’s innovators can start taking risks, making breakthroughs, and building robots today. We are RoboNation.
 
 - [Eurobot.org](https://www.eurobot.org) - The Eurobot Assocation is an international organization created in May 2004 and registered in France. It was born 6 years after the Eurobot Contest to structure the organization of this growing contest, and to favor the spirit of exchange and co-operation between the different organizers. The object of Eurobot is to foster and develop interest in robotics in young people on an international scale. To reach this goal, it promotes and organizes the national qualifications and the international final for the Eurobot robotics contest.
+
+### Arts
+
+- [CyborgArts.com)](https://www.cyborgarts.com) - Cyborg Arts is a talent agency for cyborg artists Neil Harbisson and Moon Ribas, offering services such as keynotes, online talks, performances, workshops and commissioned artwork, all across the globe since 2013.
 
 ## Discord
 
