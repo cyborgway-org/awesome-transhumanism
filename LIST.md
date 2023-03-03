@@ -20,6 +20,8 @@
 
 - [LongevityCoin](https://www.longevitycoin.org) - Longevity Intime will be launching a DeFi (Decentralized Finance) platform, Longevity Intime DeFi is built and implemented on the Binance Smart Chain (BSC) network. By adopting well-known strategies in the DeFi universe, it has an economic model capable of generating rewards in crypto assets through Farming and Staking.
 
+- [The Center of Excellence for Engineering Biology | GP-write | HGP-write](https://engineeringbiologycenter.org) - The Genome Project-write (GP-write) is an open, international research project led by a multi-disciplinary group of scientific leaders who will oversee a reduction in the costs of engineering and testing large genomes in cell lines more than 1,000-fold within ten years.
+
 ### Crowdfunding for Science
 
 - [experiment.com](https://experiment.com) - Experiment is online platform for discovering, funding, and sharing scientific research.
@@ -88,7 +90,7 @@
 
 ### Arts
 
-- [CyborgArts.com)](https://www.cyborgarts.com) - Cyborg Arts is a talent agency for cyborg artists Neil Harbisson and Moon Ribas, offering services such as keynotes, online talks, performances, workshops and commissioned artwork, all across the globe since 2013.
+- [CyborgArts.com](https://www.cyborgarts.com) - Cyborg Arts is a talent agency for cyborg artists Neil Harbisson and Moon Ribas, offering services such as keynotes, online talks, performances, workshops and commissioned artwork, all across the globe since 2013.
 
 ## Discord
 
