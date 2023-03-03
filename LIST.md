@@ -20,7 +20,7 @@
 
 - [LongevityCoin](https://www.longevitycoin.org) - Longevity Intime will be launching a DeFi (Decentralized Finance) platform, Longevity Intime DeFi is built and implemented on the Binance Smart Chain (BSC) network. By adopting well-known strategies in the DeFi universe, it has an economic model capable of generating rewards in crypto assets through Farming and Staking.
 
-- [The Center of Excellence for Engineering Biology | GP-write | HGP-write](https://engineeringbiologycenter.org) - The Genome Project-write (GP-write) is an open, international research project led by a multi-disciplinary group of scientific leaders who will oversee a reduction in the costs of engineering and testing large genomes in cell lines more than 1,000-fold within ten years.
+- [The Center of Excellence for Engineering Biology / GP-write / HGP-write](https://engineeringbiologycenter.org) - The Genome Project-write (GP-write) is an open, international research project led by a multi-disciplinary group of scientific leaders who will oversee a reduction in the costs of engineering and testing large genomes in cell lines more than 1,000-fold within ten years. GP-write will include whole genome engineering of human cell lines and other organisms of agricultural and public health significance. Human Genome Project-write (HGP-write) will be a critical core activity within GP-write focused on synthesizing human genomes in whole or in part.
 
 ### Crowdfunding for Science
 
