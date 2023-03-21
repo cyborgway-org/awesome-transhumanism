@@ -2,11 +2,11 @@
 
 ## Websites
 
-- [CyborgWay.org](https://cyborgway.org) - is an organization whose aim is to accelerate the emergence of cybernetic technologies, cybernetic bodies, cybernetic minds, cybernetic civilization.
+- [CyborgWay.org](https://cyborgway.org) - Cyborg Way is an organization whose aim is to accelerate the emergence of cybernetic technologies, cybernetic bodies, cybernetic minds, cybernetic civilization.
 
-- [CyborgFoundation.com](https://www.cyborgfoundation.com) - Cyborg Foundation was created in 2010 by cyborg artists Neil Harbisson and Moon Ribas in order to help humans become cyborgs, defend the rights of cyborgs and promote cyborg art.​
+- [CyborgFoundation.com](https://www.cyborgfoundation.com) - Cyborg Foundation was created by cyborg artists Neil Harbisson and Moon Ribas in order to help humans become cyborgs, defend the rights of cyborgs and promote cyborg art.​
 
-- [Posthumans.org](https://www.posthumans.org) - POSTHUMANS - The Global Posthuman Network is a global, and local, platform dedicated to the posthuman paradigm shift. ​Our goal is to connect all the scholars, artists, scientists, researchers, human and post-human beings, who are envisioning our posthuman era.
+- [PostHumans.org](https://www.posthumans.org) - The Global Posthuman Network is a global, and local, platform dedicated to the posthuman paradigm shift. ​Our goal is to connect all the scholars, artists, scientists, researchers, human and post-human beings, who are envisioning our posthuman era.
 
 - [CarbonCopies.org](https://carboncopies.org) - Carboncopies Foundation, we believe that the possibilities and opportunities enabled by Whole Brain Emulation (WBE) represent the most promising technological path to overcoming our fundamental limitations as a species.
 
@@ -24,15 +24,15 @@
 
 ### Crowdfunding for Science
 
-- [experiment.com](https://experiment.com) - Experiment is online platform for discovering, funding, and sharing scientific research.
+- [Experiment.com](https://experiment.com) - Experiment is online platform for discovering, funding, and sharing scientific research.
 
-- [kickstarter.com](https://www.kickstarter.com/pages/science) - Science Projects on Kickstarter.
+- [Kickstarter.com](https://www.kickstarter.com/pages/science) - Science Projects on Kickstarter.
 
-- [crowd.science](https://crowd.science) - Crowd.Science plans to grow the amount of funding available to scientists. To do this we work with individual scientists and organisations to craft and promote crowdfunding campaigns that engage new science funders. We also work with businesses and philanthropists who already fund science, aiming to make their funding go further by using it to leverage support from the crowd.
+- [Crowd.Science](https://crowd.science) - Crowd.Science plans to grow the amount of funding available to scientists. To do this we work with individual scientists and organisations to craft and promote crowdfunding campaigns that engage new science funders. We also work with businesses and philanthropists who already fund science, aiming to make their funding go further by using it to leverage support from the crowd.
 
-- [lifespan.io](https://www.lifespan.io/crowdfunding/) - Crowdfunding the cure for aging.
+- [Lifespan.io](https://www.lifespan.io/crowdfunding/) - Crowdfunding the cure for aging.
 
-- [molecule.to](https://www.molecule.to) - Decentralized scientific research financing platform that functions as a marketplace for academics seeking funding and individuals interested in investing in scientific research initiatives. They "connect leading researchers to funds by transforming intellectual property and development into a liquid and easily investable asset.
+- [Molecule.to](https://www.molecule.to) - Decentralized scientific research financing platform that functions as a marketplace for academics seeking funding and individuals interested in investing in scientific research initiatives. They "connect leading researchers to funds by transforming intellectual property and development into a liquid and easily investable asset.
 
 - [VitaDAO.com](https://vitadao.com) - VitaDAO is a community owned collective funding early stage longevity research. We discover and fund the most promising longevity research. We are funding early stage research, and try to turn it into biotech companies. Members can join VitaDAO by purchasing VITA tokens  or earning them through contributions of work or Intellectual Property.
 
@@ -44,17 +44,17 @@
 
 ### Challenges for Science
 
-- [innocentive.com](https://www.innocentive.com) - Harness the power of our global community of 500,000 problem solvers, our global reach to millions more, all combined with our Challenge Driven Innovation™ methodology.
+- [Wazoku.com](https://www.wazoku.com) - We are an innovative SaaS business changing the world, one idea at a time. We’re the global home for all ideas, giving a voice and role to everyone in the innovation process. Innovation_360 gives everyone the chance to see their ideas become a reality.
 
-- [herox.com](https://www.herox.com) - Discover the Power of the Crowd! We connect everyday problem solvers like you to bring innovative thinking to the world.
+- [HeroX.com](https://www.herox.com) - Discover the Power of the Crowd! We connect everyday problem solvers like you to bring innovative thinking to the world.
 
 ### Crowdsourcing for Science
 
-- [scistarter.org](https://scistarter.org) - Find volunteer opportunities that match topics you're curious or concerned about. There's something for everyone!
+- [SciStarter.org](https://scistarter.org) - Find volunteer opportunities that match topics you're curious or concerned about. There's something for everyone!
 
-- [zooniverse.org](https://www.zooniverse.org) - Zooniverse is the world’s largest and most popular platform for people-powered research. This research is made possible by volunteers — more than a million people around the world who come together to assist professional researchers. Our goal is to enable research that would not be possible, or practical, otherwise. Zooniverse research results in new discoveries, datasets useful to the wider research community, and many publications.
+- [Zooniverse.org](https://www.zooniverse.org) - Zooniverse is the world’s largest and most popular platform for people-powered research. This research is made possible by volunteers — more than a million people around the world who come together to assist professional researchers. Our goal is to enable research that would not be possible, or practical, otherwise. Zooniverse research results in new discoveries, datasets useful to the wider research community, and many publications.
 
-- [longhack.org](https://longhack.org) - Longevity Hackathons. We provide a gateway into the world of longevity, connecting young scientists and communities to experienced players. We are also engaged in a range of inspirational and high-quality activities with our partners internationally. However, our main focus is on both online and real-life longevity hackathons which we keep 3 times a year. Our goal is to make an impact on the longevity industry, boost research, and support the community of enthusiasts hacking aging, just like us.
+- [LongHack.org](https://longhack.org) - Longevity Hackathons. We provide a gateway into the world of longevity, connecting young scientists and communities to experienced players. We are also engaged in a range of inspirational and high-quality activities with our partners internationally. However, our main focus is on both online and real-life longevity hackathons which we keep 3 times a year. Our goal is to make an impact on the longevity industry, boost research, and support the community of enthusiasts hacking aging, just like us.
 
 ### Longevity, immortalism, antiaging
 
@@ -77,6 +77,10 @@
 - [ResearchHub.com](https://www.researchhub.com) - A GitHub For Science. ResearchHub's mission is to accelerate the pace of scientific research. Our goal is to make a modern mobile and web application where people can collaborate on scientific research in a more efficient way, similar to what GitHub has done for software engineering. Researchers are able to upload articles (preprint or postprint) in PDF form, summarize the findings of the work in an attached wiki, and discuss the findings in a completely open and accessible forum dedicated solely to the relevant article.
 
 - [FlemingProtocol.io](https://flemingprotocol.io) - Fleming Protocol provides users with the infrastructure to store all of their personal health data, generated from patient-owned devices (i.e. smart watches, remote monitoring sensors, etc.), in one place using IPFS, giving patients full custody of their own data. This will enable users to use this data to develop "automated and personalized systems for self-management" while opening the door for a new "personalized healthcare economy in the metaverse." Through incentivization & innovative data monetization mechanisms, we enable patients & biomedical innovators to collaborate & create value in a privacy preserving way.
+
+### Cyborgs
+
+- [CYBATHLON](https://cybathlon.ethz.ch) - A non-profit project of ETH Zurich, acts as a platform that challenges teams from all over the world to develop assistive technologies suitable for everyday use with and for people with disabilities. The driving force behind CYBATHLON is international competitions and events, in which teams consisting of technology developers from universities, companies or NGOs and a person with disabilities tackle various everyday tasks with their latest assistive technologies. The participants with physical disabilities show how to tie shoelaces with a robotic arm prosthesis, balance on rocks with a prosthetic leg or overcome uneven terrain with an exoskeleton.
 
 ### Robots
 
