@@ -22,6 +22,14 @@
 
 - [The Center of Excellence for Engineering Biology / GP-write / HGP-write](https://engineeringbiologycenter.org) - The Genome Project-write (GP-write) is an open, international research project led by a multi-disciplinary group of scientific leaders who will oversee a reduction in the costs of engineering and testing large genomes in cell lines more than 1,000-fold within ten years. GP-write will include whole genome engineering of human cell lines and other organisms of agricultural and public health significance. Human Genome Project-write (HGP-write) will be a critical core activity within GP-write focused on synthesizing human genomes in whole or in part.
 
+### Cyborgs
+
+- [CYBATHLON](https://cybathlon.ethz.ch) - A non-profit project of ETH Zurich, acts as a platform that challenges teams from all over the world to develop assistive technologies suitable for everyday use with and for people with disabilities. The driving force behind CYBATHLON is international competitions and events, in which teams consisting of technology developers from universities, companies or NGOs and a person with disabilities tackle various everyday tasks with their latest assistive technologies. The participants with physical disabilities show how to tie shoelaces with a robotic arm prosthesis, balance on rocks with a prosthetic leg or overcome uneven terrain with an exoskeleton.
+
+#### Neurointerfaces, implantable electronics
+
+- [N3 Lab](https://nurmikko.engin.brown.edu) - N3 lab, Neuroengineering and Nanophotonics Laboratory.
+
 ### Crowdfunding for Science
 
 - [Experiment.com](https://experiment.com) - Experiment is online platform for discovering, funding, and sharing scientific research.
@@ -78,10 +86,6 @@
 
 - [FlemingProtocol.io](https://flemingprotocol.io) - Fleming Protocol provides users with the infrastructure to store all of their personal health data, generated from patient-owned devices (i.e. smart watches, remote monitoring sensors, etc.), in one place using IPFS, giving patients full custody of their own data. This will enable users to use this data to develop "automated and personalized systems for self-management" while opening the door for a new "personalized healthcare economy in the metaverse." Through incentivization & innovative data monetization mechanisms, we enable patients & biomedical innovators to collaborate & create value in a privacy preserving way.
 
-### Cyborgs
-
-- [CYBATHLON](https://cybathlon.ethz.ch) - A non-profit project of ETH Zurich, acts as a platform that challenges teams from all over the world to develop assistive technologies suitable for everyday use with and for people with disabilities. The driving force behind CYBATHLON is international competitions and events, in which teams consisting of technology developers from universities, companies or NGOs and a person with disabilities tackle various everyday tasks with their latest assistive technologies. The participants with physical disabilities show how to tie shoelaces with a robotic arm prosthesis, balance on rocks with a prosthetic leg or overcome uneven terrain with an exoskeleton.
-
 ### Robots
 
 - [RoboCup.org](https://robocup.org) - RoboCup is an international scientific initiative with the goal to advance the state of the art of intelligent robots. When established in 1997, the original mission was to field a team of robots capable of winning against the human soccer World Cup champions by 2050.
@@ -104,7 +108,7 @@
 
 ### Channels
 
-#### Cyborgization
+#### Cyborgs
 
 - [Cyborg Way](https://t.me/cyborgway) - If you don't find a way to escape your death, you will DIE!
 
