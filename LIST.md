@@ -72,6 +72,8 @@
 
 - [Open Longevity](https://openlongevity.org) - We are extremely lucky to be alive. Life can be even better and it can last longer! We are against aging and all causes of death, and we support using scientific methods to fight them.
 
+- [Maximon](https://www.maximon.com) - The longevity company builder. Maximon empowers entrepreneurs to build impactful, science-based and scalable companies providing healthy aging and rejuvenation solutions. As a company builder, we identify the most promising business opportunities in the field of longevity and build companies from scratch. We provide proven structures, financing, and a unique and inspiring playground for entrepreneurs to build a longevity venture. With a team of globally successful entrepreneurs and venture investors, we have built a venture building process that bridges the gap between science and business.
+
 ### DeSci
 
 - [DeSci Foundation](https://descifoundation.org) - The DeSci Foundation is a tax-exempt non-profit foundation. The purpose of the foundation is to advance high-quality scientific research and science. The Foundation can give scholarships and awards to researchers and scientists to support its purpose. We are working together with our banking partner to enable financial donations to high-quality science by bridging web3 and traditional institutions.
