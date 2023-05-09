@@ -56,6 +56,10 @@
 
 - [HeroX.com](https://www.herox.com) - Discover the Power of the Crowd! We connect everyday problem solvers like you to bring innovative thinking to the world.
 
+- [XPRIZE.org](https://www.xprize.org) - A global future-positive movement of over 1M people and rising. A trusted, proven platform for impact that leverages the power of competition to catalyze innovation and accelerate a more hopeful future by incentivizing radical breakthroughs for the benefit of humanity.
+
+- [XPRIZE Avatar](https://www.xprize.org/prizes/avatar) - The $10M ANA Avatar XPRIZE aims to create an avatar system that can transport human presence to a remote location in real time.
+
 ### Crowdsourcing for Science
 
 - [SciStarter.org](https://scistarter.org) - Find volunteer opportunities that match topics you're curious or concerned about. There's something for everyone!
