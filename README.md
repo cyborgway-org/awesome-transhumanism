@@ -5,8 +5,8 @@ A curated awesome list of Transhumanism links. Feel free to contribute!
 Languages:
 
 - [English](LIST.md)
-- [Українська](LIST.ua.md)
 - [Русский](LIST.ru.md)
+- [Українська](LIST.ua.md)
 
 The repository is a part of the [Cyborg Way Organization](https://github.com/cyborgway-org). This project and everyone participating in it is governed by the [Code of Conduct](CODE_OF_CONDUCT.md).
 
