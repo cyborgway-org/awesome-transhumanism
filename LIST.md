@@ -22,6 +22,8 @@
 
 - [The Center of Excellence for Engineering Biology / GP-write / HGP-write](https://engineeringbiologycenter.org) - The Genome Project-write (GP-write) is an open, international research project led by a multi-disciplinary group of scientific leaders who will oversee a reduction in the costs of engineering and testing large genomes in cell lines more than 1,000-fold within ten years. GP-write will include whole genome engineering of human cell lines and other organisms of agricultural and public health significance. Human Genome Project-write (HGP-write) will be a critical core activity within GP-write focused on synthesizing human genomes in whole or in part.
 
+- [Singularity Hub](https://singularityhub.com) - Singularity Hub chronicles technological progress by highlighting the breakthroughs, players, and issues shaping the future as well as supporting a global community of smart, passionate, action-oriented people who want to change the world.
+
 ### Cyborgs
 
 - [CYBATHLON](https://cybathlon.ethz.ch) - A non-profit project of ETH Zurich, acts as a platform that challenges teams from all over the world to develop assistive technologies suitable for everyday use with and for people with disabilities. The driving force behind CYBATHLON is international competitions and events, in which teams consisting of technology developers from universities, companies or NGOs and a person with disabilities tackle various everyday tasks with their latest assistive technologies. The participants with physical disabilities show how to tie shoelaces with a robotic arm prosthesis, balance on rocks with a prosthetic leg or overcome uneven terrain with an exoskeleton.
@@ -77,6 +79,14 @@
 - [Open Longevity](https://openlongevity.org) - We are extremely lucky to be alive. Life can be even better and it can last longer! We are against aging and all causes of death, and we support using scientific methods to fight them.
 
 - [Maximon](https://www.maximon.com) - The longevity company builder. Maximon empowers entrepreneurs to build impactful, science-based and scalable companies providing healthy aging and rejuvenation solutions. As a company builder, we identify the most promising business opportunities in the field of longevity and build companies from scratch. We provide proven structures, financing, and a unique and inspiring playground for entrepreneurs to build a longevity venture. With a team of globally successful entrepreneurs and venture investors, we have built a venture building process that bridges the gap between science and business.
+
+- [The Alliance for Longevity Initiatives](https://a4li.org) - Is an independent nonprofit organization, with the mission to advance legislation and policies that aim to increase healthy human lifespan, with a focus on accelerating equitable access to next-generation therapies.
+
+- [Vitalism.io](https://www.vitalism.io) - The movement against death and biological decline. Let's make freedom from biological aging and death humanity's #1 priority. Vitalism's mission is to allow every human to live in optimal health indefinitely.
+
+- [Longevity Biotech Fellowship (LBF)](https://www.longbiofellowship.org) - Is a community for people to come together to build revolutionary longevity projects. Our members build, join, and invest in revolutionary longevity biotechnology projects to radically extend lifespan.
+
+- [Longevity Zero to One](https://www.longevitycourse.org) - A free 18-hour crash course to transition your career into longevity. Organized by Cat (VitaDAO) and Mark (LBF).
 
 ### DeSci
 
