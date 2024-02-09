@@ -1,5 +1,22 @@
 # На русском языке
 
+## Wikipedia
+
+- [Трансгуманизм](https://ru.wikipedia.org/wiki/Трансгуманизм)
+- [Постгуманизм](https://ru.wikipedia.org/wiki/Постгуманизм)
+- [Постгендеризм](https://ru.wikipedia.org/wiki/Постгендеризм)
+- [Сингулярианство](https://ru.wikipedia.org/wiki/Сингулярианство)
+- [Робот](https://ru.wikipedia.org/wiki/Робот)
+- [Киборг](https://ru.wikipedia.org/wiki/Киборг)
+- [Кибернетика](https://ru.wikipedia.org/wiki/Кибернетика)
+- [Виртуальная реальность](https://ru.wikipedia.org/wiki/Виртуальная_реальность)
+- [Иммортализм](https://ru.wikipedia.org/wiki/Иммортализм)
+- [Экстропианство](https://ru.wikipedia.org/wiki/Экстропианство)
+- [Трансгуманистическая политика](https://ru.wikipedia.org/wiki/Трансгуманистическая_политика)
+- [Transhumanists](https://en.wikipedia.org/wiki/List_of_transhumanists)
+- [Кибернетики](https://ru.wikipedia.org/wiki/Категория:Кибернетики)
+- [Extropians](https://en.wikipedia.org/wiki/Category:Extropians)
+
 ## Сайты
 
 - [CyborgWay.org](https://cyborgway.org) - это организация, целью которой является ускорение появления кибернетических технологий, кибернетических тел, кибернетических разумов, кибернетической цивилизации.

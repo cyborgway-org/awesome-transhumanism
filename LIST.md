@@ -1,5 +1,22 @@
 # English
 
+## Wikipedia
+
+- [Transhumanism](https://en.wikipedia.org/wiki/Transhumanism)
+- [Posthumanism](https://en.wikipedia.org/wiki/Posthumanism)
+- [Postgenderism](https://en.wikipedia.org/wiki/Postgenderism)
+- [Singularitarianism](https://en.wikipedia.org/wiki/Singularitarianism)
+- [Robot](https://en.wikipedia.org/wiki/Robot)
+- [Cyborg](https://en.wikipedia.org/wiki/Cyborg)
+- [Cybernetics](https://en.wikipedia.org/wiki/Cybernetics)
+- [Virtual reality](https://en.wikipedia.org/wiki/Virtual_reality)
+- [Anti-aging movement](https://en.wikipedia.org/wiki/Anti-aging_movement)
+- [Extropianism](https://en.wikipedia.org/wiki/Extropianism)
+- [Transhumanist politics](https://en.wikipedia.org/wiki/Transhumanist_politics)
+- [Transhumanists](https://en.wikipedia.org/wiki/List_of_transhumanists)
+- [Cyberneticists](https://en.wikipedia.org/wiki/Category:Cyberneticists)
+- [Extropians](https://en.wikipedia.org/wiki/Category:Extropians)
+
 ## Websites
 
 - [CyborgWay.org](https://cyborgway.org) - Cyborg Way is an organization whose aim is to accelerate the emergence of cybernetic technologies, cybernetic bodies, cybernetic minds, cybernetic civilization.
@@ -111,6 +128,8 @@
 - [RoboNation.org](https://robonation.org) - Where tomorrow’s innovators can start taking risks, making breakthroughs, and building robots today. We are RoboNation.
 
 - [EuroBot.org](https://www.eurobot.org) - The Eurobot Assocation is an international organization created in May 2004 and registered in France. It was born 6 years after the Eurobot Contest to structure the organization of this growing contest, and to favor the spirit of exchange and co-operation between the different organizers. The object of Eurobot is to foster and develop interest in robotics in young people on an international scale. To reach this goal, it promotes and organizes the national qualifications and the international final for the Eurobot robotics contest.
+
+- [1X.TECH](https://www.1x.tech) - 1X designs androids that work alongside people, to meet the world’s labor demands and build an abundant society.
 
 ### Arts
 

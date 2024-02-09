@@ -1,5 +1,22 @@
 # Українською мовою
 
+## Wikipedia
+
+- [Трансгуманізм](https://uk.wikipedia.org/wiki/Трансгуманізм)
+- [Posthumanism](https://en.wikipedia.org/wiki/Posthumanism)
+- [Постгендерність](https://uk.wikipedia.org/wiki/Постгендерність)
+- [Singularitarianism](https://en.wikipedia.org/wiki/Singularitarianism)
+- [Робот](https://uk.wikipedia.org/wiki/Робот)
+- [Кіборг](https://uk.wikipedia.org/wiki/Кіборг)
+- [Кібернетика](https://uk.wikipedia.org/wiki/Кібернетика)
+- [Віртуальна реальність](https://uk.wikipedia.org/wiki/Віртуальна_реальність)
+- [Anti-aging movement](https://en.wikipedia.org/wiki/Anti-aging_movement)
+- [Екстропіанство](https://uk.wikipedia.org/wiki/Екстропіанство)
+- [Transhumanist politics](https://en.wikipedia.org/wiki/Transhumanist_politics)
+- [Transhumanists](https://en.wikipedia.org/wiki/List_of_transhumanists)
+- [Кібернетики](https://uk.wikipedia.org/wiki/Категорія:Кібернетики)
+- [Extropians](https://en.wikipedia.org/wiki/Category:Extropians)
+
 ## Сайти
 
 - [CyborgWay.org](https://cyborgway.org) – це організація, метою якої є прискорення появи кібернетичних технологій, кібернетичних тіл, кібернетичних розумів, кібернетичної цивілізації.
