@@ -2,16 +2,26 @@
 
 ## Wikipedia
 
+### Core Ideas
+
 - [Трансгуманизм](https://ru.wikipedia.org/wiki/Трансгуманизм)
+- [Иммортализм](https://ru.wikipedia.org/wiki/Иммортализм)
+- [Экстропианство](https://ru.wikipedia.org/wiki/Экстропианство)
 - [Постгуманизм](https://ru.wikipedia.org/wiki/Постгуманизм)
 - [Постгендеризм](https://ru.wikipedia.org/wiki/Постгендеризм)
 - [Сингулярианство](https://ru.wikipedia.org/wiki/Сингулярианство)
-- [Робот](https://ru.wikipedia.org/wiki/Робот)
+
+### Technologies
+
 - [Киборг](https://ru.wikipedia.org/wiki/Киборг)
 - [Кибернетика](https://ru.wikipedia.org/wiki/Кибернетика)
+- [Робот](https://ru.wikipedia.org/wiki/Робот)
+- [Робототехника](https://ru.wikipedia.org/wiki/Робототехника)
+- [Искусственный интеллект](https://ru.wikipedia.org/wiki/Искусственный_интеллект)
 - [Виртуальная реальность](https://ru.wikipedia.org/wiki/Виртуальная_реальность)
-- [Иммортализм](https://ru.wikipedia.org/wiki/Иммортализм)
-- [Экстропианство](https://ru.wikipedia.org/wiki/Экстропианство)
+
+### Impact & Community
+
 - [Трансгуманистическая политика](https://ru.wikipedia.org/wiki/Трансгуманистическая_политика)
 - [Transhumanists](https://en.wikipedia.org/wiki/List_of_transhumanists)
 - [Кибернетики](https://ru.wikipedia.org/wiki/Категория:Кибернетики)

@@ -2,16 +2,26 @@
 
 ## Wikipedia
 
+### Core Ideas
+
 - [Transhumanism](https://en.wikipedia.org/wiki/Transhumanism)
+- [Anti-aging movement](https://en.wikipedia.org/wiki/Anti-aging_movement)
+- [Extropianism](https://en.wikipedia.org/wiki/Extropianism)
 - [Posthumanism](https://en.wikipedia.org/wiki/Posthumanism)
 - [Postgenderism](https://en.wikipedia.org/wiki/Postgenderism)
 - [Singularitarianism](https://en.wikipedia.org/wiki/Singularitarianism)
-- [Robot](https://en.wikipedia.org/wiki/Robot)
+
+### Technologies
+
 - [Cyborg](https://en.wikipedia.org/wiki/Cyborg)
 - [Cybernetics](https://en.wikipedia.org/wiki/Cybernetics)
+- [Robot](https://en.wikipedia.org/wiki/Robot)
+- [Robotics](https://en.wikipedia.org/wiki/Robotics)
+- [Artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
 - [Virtual reality](https://en.wikipedia.org/wiki/Virtual_reality)
-- [Anti-aging movement](https://en.wikipedia.org/wiki/Anti-aging_movement)
-- [Extropianism](https://en.wikipedia.org/wiki/Extropianism)
+
+### Impact & Community
+
 - [Transhumanist politics](https://en.wikipedia.org/wiki/Transhumanist_politics)
 - [Transhumanists](https://en.wikipedia.org/wiki/List_of_transhumanists)
 - [Cyberneticists](https://en.wikipedia.org/wiki/Category:Cyberneticists)
