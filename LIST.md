@@ -51,6 +51,8 @@
 
 - [Singularity Hub](https://singularityhub.com) - Singularity Hub chronicles technological progress by highlighting the breakthroughs, players, and issues shaping the future as well as supporting a global community of smart, passionate, action-oriented people who want to change the world.
 
+- [cyber•Fund](https://cyber.fund) - Is dedicated to partnering with founders from genesis to growth stage and beyond. Our mission is to accelerate the transition to an open cybernetic economy by backing entrepreneurs innovating at the intersection of blockchain, artificial intelligence, robotics and adjacent technologies.
+
 ### Cyborgs
 
 - [CYBATHLON](https://cybathlon.ethz.ch) - A non-profit project of ETH Zurich, acts as a platform that challenges teams from all over the world to develop assistive technologies suitable for everyday use with and for people with disabilities. The driving force behind CYBATHLON is international competitions and events, in which teams consisting of technology developers from universities, companies or NGOs and a person with disabilities tackle various everyday tasks with their latest assistive technologies. The participants with physical disabilities show how to tie shoelaces with a robotic arm prosthesis, balance on rocks with a prosthetic leg or overcome uneven terrain with an exoskeleton.
@@ -115,6 +117,8 @@
 
 - [Longevity Zero to One](https://www.longevitycourse.org) - A free 18-hour crash course to transition your career into longevity. Organized by Cat (VitaDAO) and Mark (LBF).
 
+- [Longaevus](https://longaevus.tech) - Is a UK-based biotech company dedicated to advancing technologies that promote longer, healthier lives. Operating as the catalyst for innovation, we serve as the parent company, encompassing all projects in a venture creation model. This approach empowers us to accelerate the development of pioneering longevity solutions.
+
 ### DeSci
 
 - [DeSci Foundation](https://descifoundation.org) - The DeSci Foundation is a tax-exempt non-profit foundation. The purpose of the foundation is to advance high-quality scientific research and science. The Foundation can give scholarships and awards to researchers and scientists to support its purpose. We are working together with our banking partner to enable financial donations to high-quality science by bridging web3 and traditional institutions.
@@ -144,10 +148,6 @@
 ### Arts
 
 - [CyborgArts.com](https://www.cyborgarts.com) - Cyborg Arts is a talent agency for cyborg artists Neil Harbisson and Moon Ribas, offering services such as keynotes, online talks, performances, workshops and commissioned artwork, all across the globe since 2013.
-
-## Discord
-
-- [Cyborg Way](https://discord.gg/FnNtAnJJbN) - is an organization whose aim is to accelerate the emergence of cybernetic technologies, cybernetic bodies, cybernetic minds, cybernetic civilization.
 
 ## Telegram
 
