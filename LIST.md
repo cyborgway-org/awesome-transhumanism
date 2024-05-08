@@ -29,6 +29,8 @@
 
 ## Websites
 
+- [The Transhumanism Affirmation](https://www.transhumanismaffirmation.org) - Advances in artificial intelligence, the rise in human enhancing biomedical technologies, and the growing longevity industry have increased people’s concerns about human existence and the future. The Transhumanism Affirmation is a collaborative recommendation to correct information on transhumanism. Here, world-leading experts, creatives, and advocates counter 10 unjust claims.
+
 - [CyborgWay.org](https://cyborgway.org) - Cyborg Way is an organization whose aim is to accelerate the emergence of cybernetic technologies, cybernetic bodies, cybernetic minds, cybernetic civilization.
 
 - [CyborgFoundation.com](https://www.cyborgfoundation.com) - Cyborg Foundation was created by cyborg artists Neil Harbisson and Moon Ribas in order to help humans become cyborgs, defend the rights of cyborgs and promote cyborg art.​
