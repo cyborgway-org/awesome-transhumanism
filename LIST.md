@@ -63,6 +63,8 @@
 
 - [N3 Lab](https://nurmikko.engin.brown.edu) - N3 lab, Neuroengineering and Nanophotonics Laboratory.
 
+- [Blackrock Neurotech](https://blackrockneurotech.com) - Blackrock Neurotech innovative brain technologies provide new hope for people with paralysis & other neurological disorders.
+
 ### Crowdfunding for Science
 
 - [Experiment.com](https://experiment.com) - Experiment is online platform for discovering, funding, and sharing scientific research.
@@ -93,6 +95,8 @@
 
 - [XPRIZE Avatar](https://www.xprize.org/prizes/avatar) - The $10M ANA Avatar XPRIZE aims to create an avatar system that can transport human presence to a remote location in real time.
 
+- [Nobel Turing Challenge](https://www.nobelturingchallenge.org) - The Nobel Turing Challenge is a grand challenge for artificial intelligence and related discipline of science that aims at “developing AI Scientists capable of autonomously carrying out research to make major scientific discoveries worthy of Nobel Prize and beyond by 2050”.
+
 ### Crowdsourcing for Science
 
 - [SciStarter.org](https://scistarter.org) - Find volunteer opportunities that match topics you're curious or concerned about. There's something for everyone!
@@ -120,6 +124,8 @@
 - [Longevity Zero to One](https://www.longevitycourse.org) - A free 18-hour crash course to transition your career into longevity. Organized by Cat (VitaDAO) and Mark (LBF).
 
 - [Longaevus](https://longaevus.tech) - Is a UK-based biotech company dedicated to advancing technologies that promote longer, healthier lives. Operating as the catalyst for innovation, we serve as the parent company, encompassing all projects in a venture creation model. This approach empowers us to accelerate the development of pioneering longevity solutions.
+
+- [Dublin Longevity Declaration](https://dublinlongevitydeclaration.org) - Consensus Recommendation to Immediately Expand Research on Extending Healthy Lifespans. An increase in healthy lifespans, through much better treatment of age-related diseases (dementia, heart disease, cancer, frailty, and many more), would deliver extraordinary benefits - including savings of trillions of dollars per year in healthcare costs. Here, dozens of world-leading experts declare that such an advance is now potentially within reach, by targeting the underlying processes of aging, and that efforts to achieve it should be immediately and greatly expanded.
 
 ### DeSci
 
