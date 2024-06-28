@@ -97,6 +97,8 @@
 
 - [Nobel Turing Challenge](https://www.nobelturingchallenge.org) - The Nobel Turing Challenge is a grand challenge for artificial intelligence and related discipline of science that aims at “developing AI Scientists capable of autonomously carrying out research to make major scientific discoveries worthy of Nobel Prize and beyond by 2050”.
 
+- [The Lundbeck Foundation - THE BRAIN PRIZE](https://lundbeckfonden.com/the-brain-prize) - The world's largest brain research prize is Danish and is awarded by the Lundbeck Foundation. Each year, we award 10 million DKK (approx. 1,3 million€) to one or more brain researchers who have had a ground-breaking impact on brain research.
+
 ### Crowdsourcing for Science
 
 - [SciStarter.org](https://scistarter.org) - Find volunteer opportunities that match topics you're curious or concerned about. There's something for everyone!
@@ -126,6 +128,8 @@
 - [Longaevus](https://longaevus.tech) - Is a UK-based biotech company dedicated to advancing technologies that promote longer, healthier lives. Operating as the catalyst for innovation, we serve as the parent company, encompassing all projects in a venture creation model. This approach empowers us to accelerate the development of pioneering longevity solutions.
 
 - [Dublin Longevity Declaration](https://dublinlongevitydeclaration.org) - Consensus Recommendation to Immediately Expand Research on Extending Healthy Lifespans. An increase in healthy lifespans, through much better treatment of age-related diseases (dementia, heart disease, cancer, frailty, and many more), would deliver extraordinary benefits - including savings of trillions of dollars per year in healthcare costs. Here, dozens of world-leading experts declare that such an advance is now potentially within reach, by targeting the underlying processes of aging, and that efforts to achieve it should be immediately and greatly expanded.
+
+- [Methuselah Foundation](https://www.mfoundation.org) - Our strategic goal "Making 90 the New 50 by 2030". We incubate and sponsor mission-relevant ventures, fund research, and support projects and prizes to accelerate breakthroughs in longevity.
 
 ### DeSci
 
