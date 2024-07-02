@@ -55,6 +55,8 @@
 
 - [cyber•Fund](https://cyber.fund) - Is dedicated to partnering with founders from genesis to growth stage and beyond. Our mission is to accelerate the transition to an open cybernetic economy by backing entrepreneurs innovating at the intersection of blockchain, artificial intelligence, robotics and adjacent technologies.
 
+- [Genealogy of the Posthuman](https://criticalposthumanism.net) - The Genealogy of the Posthuman provides an online companion to posthumanism’s histories and current concerns. Addressing an expanding range of themes and ideas, it is made up of entries informed by the objectives of re-examination and critique of posthumanism’s acknowledged, unsuspected and evolving dimensions. The Genealogy is an open and international project and welcomes interventions by academics, researchers and doctoral students working on the posthuman and related fields. Critical posthumanism investigates and contextualizes the transformative potential of these developments and relates them to past and existing traditions, ideas and practices.
+
 ### Cyborgs
 
 - [CYBATHLON](https://cybathlon.ethz.ch) - A non-profit project of ETH Zurich, acts as a platform that challenges teams from all over the world to develop assistive technologies suitable for everyday use with and for people with disabilities. The driving force behind CYBATHLON is international competitions and events, in which teams consisting of technology developers from universities, companies or NGOs and a person with disabilities tackle various everyday tasks with their latest assistive technologies. The participants with physical disabilities show how to tie shoelaces with a robotic arm prosthesis, balance on rocks with a prosthetic leg or overcome uneven terrain with an exoskeleton.
@@ -127,9 +129,23 @@
 
 - [Longaevus](https://longaevus.tech) - Is a UK-based biotech company dedicated to advancing technologies that promote longer, healthier lives. Operating as the catalyst for innovation, we serve as the parent company, encompassing all projects in a venture creation model. This approach empowers us to accelerate the development of pioneering longevity solutions.
 
+- [Numenor Health](https://www.numenor.health) - The UK’s Most Advanced Longevity Membership.
+
+- [OpenCures](https://www.opencures.org) - A faster Intervention Development Research Ecosystem. OpenCures is a hybrid for-benefit enterprise that partners with a 501c(3) charity, OpenCures Access, to create a multipronged strategy to accelerate the development of health technologies through collaboration. Together with our partners, including many individuals as well as longevity clinics, laboratories, biohacker communities, AI companies, scientists and research organizations we create an integrated network of services to connect the customer for health technologies to their development in order to minimize time to their development.
+
+- [Frontier Bio Corporation](https://www.frontierbio.com) - Creating a future without animal testing & laying the groundwork for lab-grown organs.
+
 - [Dublin Longevity Declaration](https://dublinlongevitydeclaration.org) - Consensus Recommendation to Immediately Expand Research on Extending Healthy Lifespans. An increase in healthy lifespans, through much better treatment of age-related diseases (dementia, heart disease, cancer, frailty, and many more), would deliver extraordinary benefits - including savings of trillions of dollars per year in healthcare costs. Here, dozens of world-leading experts declare that such an advance is now potentially within reach, by targeting the underlying processes of aging, and that efforts to achieve it should be immediately and greatly expanded.
 
 - [Methuselah Foundation](https://www.mfoundation.org) - Our strategic goal "Making 90 the New 50 by 2030". We incubate and sponsor mission-relevant ventures, fund research, and support projects and prizes to accelerate breakthroughs in longevity.
+
+-[Global Healthspan Policy Institute](https://healthspanpolicy.org) - We are a patient-centered, consumer-oriented public policy coalition and 501c3 nonprofit thinktank working directly with members of the healthspan research industry and scientific community worldwide in support of the large-scale research and development of new treatments to address the underlying causes of aging-related disease. Our direct role is to facilitate the inclusion of all relevant stakeholders in a think tank setting  in order to create broader consumer and regulatory acceptance for new treatments relevant to our core purpose of advancing the development of immediate interventions for aging-related disease. Our coalition is membership-based for relevant thought and industry leaders and provides an opportunity for broad-based networking, strategic planning, and coordinated messaging to regulators, consumers, and members of the press.
+
+- [Ageless Partners](www.agelesspartners.com) - We offer Age Reversal as a Service, transcending traditional aging with our transformative Ageless Coaching™, insightful Ageless Guide™, Ageless Hair™ and potent Ageless Supplements™. Embrace a future where age is just a number—with personalized coaching that maximizes your rejuvenation potential.
+
+- [Aging Analytics Agency](https://www.aginganalytics.com) - Is the world’s premier provider of industry analytics on the topics of Longevity, Precision Preventive Medicine and Economics of Aging, and the convergence of technologies such as AI, Blockchain, Digital Health and their impact on the healthcare industry. Aging Analytics Agency is the only analytical company focused exclusively on the topics of Aging, Geroscience and Longevity. Founded in 2013, with headquarters in London, UK and branches in Europe, US and Canada, it began producing in-depth reports on Longevity long before it emerged as an industry.
+
+- [Immortality Roadmap](http://immortality-roadmap.com) - The goal of this project is to systematise and advance knowledge about the most important topics humanity faces: death prevention and global risks. The maps format help to overcome working memory bottleneck of 7 ± 2 elements by using visual field as external working memory. This works up to 10x10 matrix. Thus we use the "graphical processor" of our brain as external processor, the same they as current GPU are used for neural net learnings.
 
 ### DeSci
 
