@@ -35,6 +35,8 @@
 
 - [CyborgFoundation.com](https://www.cyborgfoundation.com) - Cyborg Foundation was created by cyborg artists Neil Harbisson and Moon Ribas in order to help humans become cyborgs, defend the rights of cyborgs and promote cyborg art.​
 
+- [Cyborgs with Heart](https://www.cyborgswithheart.com) - Cyborgs Community. Stewarding a generative future.
+
 - [PostHumans.org](https://www.posthumans.org) - The Global Posthuman Network is a global, and local, platform dedicated to the posthuman paradigm shift. ​Our goal is to connect all the scholars, artists, scientists, researchers, human and post-human beings, who are envisioning our posthuman era.
 
 - [CarbonCopies.org](https://carboncopies.org) - Carboncopies Foundation, we believe that the possibilities and opportunities enabled by Whole Brain Emulation (WBE) represent the most promising technological path to overcoming our fundamental limitations as a species.
@@ -56,6 +58,10 @@
 - [cyber•Fund](https://cyber.fund) - Is dedicated to partnering with founders from genesis to growth stage and beyond. Our mission is to accelerate the transition to an open cybernetic economy by backing entrepreneurs innovating at the intersection of blockchain, artificial intelligence, robotics and adjacent technologies.
 
 - [Genealogy of the Posthuman](https://criticalposthumanism.net) - The Genealogy of the Posthuman provides an online companion to posthumanism’s histories and current concerns. Addressing an expanding range of themes and ideas, it is made up of entries informed by the objectives of re-examination and critique of posthumanism’s acknowledged, unsuspected and evolving dimensions. The Genealogy is an open and international project and welcomes interventions by academics, researchers and doctoral students working on the posthuman and related fields. Critical posthumanism investigates and contextualizes the transformative potential of these developments and relates them to past and existing traditions, ideas and practices.
+
+### AGI
+
+- [SingularityNET](https://singularitynet.io)- SingularityNET is the world’s leading decentralised AI marketplace, running on blockchain. Our core mission is the development of Artificial General Intelligence (AGI) for a beneficial technological Singularity.
 
 ### Cyborgs
 
