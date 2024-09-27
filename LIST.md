@@ -59,6 +59,10 @@
 
 - [Genealogy of the Posthuman](https://criticalposthumanism.net) - The Genealogy of the Posthuman provides an online companion to posthumanism’s histories and current concerns. Addressing an expanding range of themes and ideas, it is made up of entries informed by the objectives of re-examination and critique of posthumanism’s acknowledged, unsuspected and evolving dimensions. The Genealogy is an open and international project and welcomes interventions by academics, researchers and doctoral students working on the posthuman and related fields. Critical posthumanism investigates and contextualizes the transformative potential of these developments and relates them to past and existing traditions, ideas and practices.
 
+- [Olden Labs](https://oldenlabs.com) - We are dedicated to building the tools and technologies that enable animal testing less invasively, with higher quality data with fewer animals using robotics, AI and genetic engineering.
+
+- [Cyberhuman](https://cyberhuman.tech) - venture builder. We're launching a biotech venture to protect human awareness via the achievement of a bionic analogue to organic existence in nearest 20 years.
+
 ### AGI
 
 - [SingularityNET](https://singularitynet.io)- SingularityNET is the world’s leading decentralised AI marketplace, running on blockchain. Our core mission is the development of Artificial General Intelligence (AGI) for a beneficial technological Singularity.
@@ -152,6 +156,8 @@
 - [Aging Analytics Agency](https://www.aginganalytics.com) - Is the world’s premier provider of industry analytics on the topics of Longevity, Precision Preventive Medicine and Economics of Aging, and the convergence of technologies such as AI, Blockchain, Digital Health and their impact on the healthcare industry. Aging Analytics Agency is the only analytical company focused exclusively on the topics of Aging, Geroscience and Longevity. Founded in 2013, with headquarters in London, UK and branches in Europe, US and Canada, it began producing in-depth reports on Longevity long before it emerged as an industry.
 
 - [Immortality Roadmap](http://immortality-roadmap.com) - The goal of this project is to systematise and advance knowledge about the most important topics humanity faces: death prevention and global risks. The maps format help to overcome working memory bottleneck of 7 ± 2 elements by using visual field as external working memory. This works up to 10x10 matrix. Thus we use the "graphical processor" of our brain as external processor, the same they as current GPU are used for neural net learnings.
+
+- [Retro](https://www.retro.bio) - We're Adding 10 Years to Healthy Human Lifespan. We develop therapies that meaningfully reverse age-related diseases. Retro aspires to be a generational pharma company proportional to the scale of our mission. Built as a portfolio of bets, we are driven by a culture of kindness, rigor, and versatility. We prize speed, combining an ethos of rapid iteration with investment in vertical integration to tighten feedback loops. We bet on scientists who want to maximize their impact.
 
 ### DeSci
 
